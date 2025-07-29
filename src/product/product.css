@@ -1,0 +1,23 @@
+.a{
+    width: 1220px;
+    margin: 0 auto;
+}
+.b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px ;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+}
+.b img{
+    height: 600px;
+}
